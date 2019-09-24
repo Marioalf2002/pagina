@@ -13,6 +13,7 @@
     echo "<h3>Listado de archivos y carpetas del directorio curso/</h3>";
     echo "<p>$listar</p>";
 ?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
